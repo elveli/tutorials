@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/antonputra/lesson-158.git
+    repoURL: https://github.com/elveli/lesson-158.git
     targetRevision: HEAD
     path: my-app
   destination:
